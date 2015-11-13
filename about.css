@@ -70,11 +70,11 @@ nav ul li a.selected{
   background-color: #fff;
 }
 
-section{
+article{
   padding:30px 20px;
 }
      
-section h2{
+article h2{
   padding:10px 0 20px 0;
   text-align:center;
   letter-spacing:0.15em;
